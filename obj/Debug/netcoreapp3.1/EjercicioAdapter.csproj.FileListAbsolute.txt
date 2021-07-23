@@ -1,0 +1,13 @@
+C:\Users\yirbe\source\repos\EjercicioAdapter\bin\Debug\netcoreapp3.1\EjercicioAdapter.exe
+C:\Users\yirbe\source\repos\EjercicioAdapter\bin\Debug\netcoreapp3.1\EjercicioAdapter.deps.json
+C:\Users\yirbe\source\repos\EjercicioAdapter\bin\Debug\netcoreapp3.1\EjercicioAdapter.runtimeconfig.json
+C:\Users\yirbe\source\repos\EjercicioAdapter\bin\Debug\netcoreapp3.1\EjercicioAdapter.runtimeconfig.dev.json
+C:\Users\yirbe\source\repos\EjercicioAdapter\bin\Debug\netcoreapp3.1\EjercicioAdapter.dll
+C:\Users\yirbe\source\repos\EjercicioAdapter\bin\Debug\netcoreapp3.1\EjercicioAdapter.pdb
+C:\Users\yirbe\source\repos\EjercicioAdapter\obj\Debug\netcoreapp3.1\EjercicioAdapter.csprojAssemblyReference.cache
+C:\Users\yirbe\source\repos\EjercicioAdapter\obj\Debug\netcoreapp3.1\EjercicioAdapter.AssemblyInfoInputs.cache
+C:\Users\yirbe\source\repos\EjercicioAdapter\obj\Debug\netcoreapp3.1\EjercicioAdapter.AssemblyInfo.cs
+C:\Users\yirbe\source\repos\EjercicioAdapter\obj\Debug\netcoreapp3.1\EjercicioAdapter.csproj.CoreCompileInputs.cache
+C:\Users\yirbe\source\repos\EjercicioAdapter\obj\Debug\netcoreapp3.1\EjercicioAdapter.dll
+C:\Users\yirbe\source\repos\EjercicioAdapter\obj\Debug\netcoreapp3.1\EjercicioAdapter.pdb
+C:\Users\yirbe\source\repos\EjercicioAdapter\obj\Debug\netcoreapp3.1\EjercicioAdapter.genruntimeconfig.cache

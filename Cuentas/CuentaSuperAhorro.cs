@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace EjercicioAdapter.Cuentas
+{
+    class CuentaSuperAhorro: CCuentas
+    {
+        public CuentaSuperAhorro(double monto)
+        {
+            this.Balance = monto;
+            Random generator = new Random();
+            this.Numero = generator.Next(1000000, 1999999);
+            Console.WriteLine("Se ha creado la cuenta numero " + this.Numero + " Con un balance de " + this.Balance);
+            CCuentas.DataBase.Add(this);
+
+        }
+
+    }
+}
